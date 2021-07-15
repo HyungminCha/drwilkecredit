@@ -1,0 +1,9 @@
+﻿pathway,sse,child,ya,future
+Stable Low,76.97458,0,0,0
+High Child SES,77.23281,1,0,0
+High YA SES,79.43345,0,1,0
+High Future SES,79.51488,0,0,1
+High Child + YA SES,80.74703,1,1,0
+High Child + Future SES,82.38493,1,0,1
+High YA + Future SES,80.52782,0,1,1
+Stable High,83.41977,1,1,1
