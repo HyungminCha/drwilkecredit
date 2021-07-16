@@ -1,9 +1,9 @@
-﻿pathway,sse,child,ya,future,color
-Stable Low,76.97458,0,0,0,no
-High Child SES Only,77.23281,1,0,0,one
-High YA SES Only,79.43345,0,1,0,one
-High Future SES Only,79.51488,0,0,1,one
-High Child + YA SES,80.74703,1,1,0,two
-High Child + Future SES,82.38493,1,0,1,two
-High YA + Future SES,80.52782,0,1,1,two
-Stable High,83.41977,1,1,1,three
+﻿pathway,sse,child,ya,future,color,sd
+Stable Low,76.19146,0,0,0,no,1.177633
+High Child SES Only,78.66743,1,0,0,one,1.513538
+High YA SES Only,78.91038,0,1,0,one,1.182361
+High Future SES Only,79.30561,0,0,1,one,1.193222
+High Child + YA SES,80.40358,1,1,0,two,0.7942594
+High Child + Future SES,82.68133,1,0,1,two,1.035441
+High YA + Future SES,79.45488,0,1,1,two,1.316362
+Stable High,83.50912,1,1,1,three,0.6104291
