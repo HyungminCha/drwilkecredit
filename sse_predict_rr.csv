@@ -1,4 +1,4 @@
-﻿pathway,sse,child,ya,future,color,sd
-High Child SES,78.55462,1,0,0,one,1.670644
-High Child + Young Adult SES,80.51893,1,1,0,two,1.012057
-High Child + Young Adult + Future SES,83.5851,1,1,1,three,0.7193237
+﻿pathway,sse,child,ya,future,color,sd,paint
+High Child SES,78.55462,1,0,0,one,1.670644,1
+High Child + Young Adult SES,80.51893,1,1,0,two,1.012057,2
+High Child + Young Adult + Future SES,83.5851,1,1,1,three,0.7193237,3
