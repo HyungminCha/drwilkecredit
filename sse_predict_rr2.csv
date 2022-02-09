@@ -1,0 +1,5 @@
+pathway,sse,child,ya,future,color,sd,paint
+Consistently Low SES,76.59987,0,0,0,one,1.048568,1
+High Child SES,78.16083,1,0,0,two,1.627443,2
+High Child + Young Adult SES,80.59131,1,1,0,three,0.9814284,3
+High Child + Young Adult + Future SES,83.4923,1,1,1,four,0.7301262,4
